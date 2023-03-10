@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex ascexmpl-new"] 1678452220 "ascexmpl-new.aux" "ascexmpl-new.bbl" "ascexmpl-new" 1678452463
+["bibtex ascexmpl-new"] 1678452220 "ascexmpl-new.aux" "ascexmpl-new.bbl" "ascexmpl-new" 1678452713
   "./ascelike-new.bst" 1678289460 34611 d1ce19bd45ef870dc2144f49a75c5a21 ""
-  "ascexmpl-new.aux" 1678452462 6634 affd07a0e9e388bc0a0b295377fa558e "pdflatex"
+  "ascexmpl-new.aux" 1678452712 6634 affd07a0e9e388bc0a0b295377fa558e "pdflatex"
   "ascexmpl-new.bib" 1678289460 13269 43717e5944869d0731542babcc315b7a ""
   (generated)
   "ascexmpl-new.bbl"
   "ascexmpl-new.blg"
-["pdflatex"] 1678452462 "/Users/fn20944/Library/CloudStorage/OneDrive-UniversityofBristol/YEAR 3_2022-23/latex_project/ascexmpl-new.tex" "ascexmpl-new.pdf" "ascexmpl-new" 1678452463
-  "/Users/fn20944/Library/CloudStorage/OneDrive-UniversityofBristol/YEAR 3_2022-23/latex_project/ascexmpl-new.tex" 1678452461 27457 ae47aab1c2a21f8ecf40536de1dfecce ""
+["pdflatex"] 1678452712 "/Users/fn20944/Library/CloudStorage/OneDrive-UniversityofBristol/YEAR 3_2022-23/latex_project/ascexmpl-new.tex" "ascexmpl-new.pdf" "ascexmpl-new" 1678452713
+  "/Users/fn20944/Library/CloudStorage/OneDrive-UniversityofBristol/YEAR 3_2022-23/latex_project/ascexmpl-new.tex" 1678452711 27470 1a25273ab2934b66b97dba24dd340f12 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1640468671 2914 8283dfc24eaf1964346f843d7605c2b0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1529098226 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -152,14 +152,14 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678370190 2826434 c5e8b878898209dd59d40bb77ed4fa8a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "ascelike-new.cls" 1678289460 25540 4c5c61df34ae2c590510ccd335d871ad ""
-  "ascexmpl-new.aux" 1678452462 6634 affd07a0e9e388bc0a0b295377fa558e "pdflatex"
+  "ascexmpl-new.aux" 1678452712 6634 affd07a0e9e388bc0a0b295377fa558e "pdflatex"
   "ascexmpl-new.bbl" 1678452220 7573 2b1d7e3f8a9c161775d26e3e8f1cd374 "bibtex ascexmpl-new"
-  "ascexmpl-new.fff" 1678452462 301 4305c40e0b6c74e9ad2415ee637f95aa "pdflatex"
-  "ascexmpl-new.lof" 1678452462 268 3df0f677cf3840cc5c0cd3e0daf51232 "pdflatex"
-  "ascexmpl-new.lot" 1678452462 101 91335043c61a4b051f267ab34e1fbbee "pdflatex"
-  "ascexmpl-new.out" 1678452462 2352 b5d3cb733b382c7537869371a945ea59 "pdflatex"
-  "ascexmpl-new.tex" 1678452461 27457 ae47aab1c2a21f8ecf40536de1dfecce ""
-  "ascexmpl-new.ttt" 1678452462 657 841134a2bb638b4c055a0d3b55365d0e "pdflatex"
+  "ascexmpl-new.fff" 1678452712 301 4305c40e0b6c74e9ad2415ee637f95aa "pdflatex"
+  "ascexmpl-new.lof" 1678452712 268 3df0f677cf3840cc5c0cd3e0daf51232 "pdflatex"
+  "ascexmpl-new.lot" 1678452712 101 91335043c61a4b051f267ab34e1fbbee "pdflatex"
+  "ascexmpl-new.out" 1678452712 2352 b5d3cb733b382c7537869371a945ea59 "pdflatex"
+  "ascexmpl-new.tex" 1678452711 27470 1a25273ab2934b66b97dba24dd340f12 ""
+  "ascexmpl-new.ttt" 1678452712 657 841134a2bb638b4c055a0d3b55365d0e "pdflatex"
   (generated)
   "ascexmpl-new.aux"
   "ascexmpl-new.fff"
